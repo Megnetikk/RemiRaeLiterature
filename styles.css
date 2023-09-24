@@ -4,5 +4,8 @@
     padding-top: 15px;
     padding-left: 30px;
     color: white;
-};
+}
 
+nav.navbar {
+    color: white
+}
